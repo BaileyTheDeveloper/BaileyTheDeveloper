@@ -1,10 +1,11 @@
 ### Hi there 👋
 My name is Bailey
-•😄 Pronouns: He/Him
-•📫 How to reach me: www.linkedin.com/in/bailey-pointer
-•🔭 I’m currently working on breaking into the tech field and landing my first development role.
-•🌱 I have experience with React, JavaScript, HTML, CSS, and VBA
-•⚡ Fun fact: I began learning how to play drums at age 5.
+
+*😄 Pronouns: He/Him
+8📫 How to reach me: www.linkedin.com/in/bailey-pointer
+*🔭 I’m currently working on breaking into the tech field and landing my first development role.
+*🌱 I have experience with React, JavaScript, HTML, CSS, and VBA
+*⚡ Fun fact: I began learning how to play drums at age 5.
 <!--
 **BaileyTheDeveloper/BaileyTheDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
